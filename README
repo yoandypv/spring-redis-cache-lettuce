@@ -1,0 +1,7 @@
+# Spring Redis Districuted Cache Lettuce example
+
+Este es un ejemplo de cache distribuida con Redis & Lettuce usando Spring Boot.
+
+En este enlace está la explicación completa: https://youtu.be/Ro6bTRtNOUg
+
+En el blog puedes encontrar más artículos de este tema https://sacavix.com
